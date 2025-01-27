@@ -1,11 +1,12 @@
 # Assignment 2
 <!DOCTYPE html>
 <html>
+<head>
+<h1>Sydnee Martin</h1>
+</head>
 <body>
 
-<h1>Sydnee Martin</h1>
 <h2>About Me</h2>
-
 <p>My name is Sydnee Martin. I currently reside in Winchester, VA with my family and my three-year-old pup named Harlow. I have a B.A. in American Studies from the George Washington University and currently in my final semester of graduate school at the University of Florida. In May 2025 I am set to receive my M.A. in Communications with a specialization in Global Strategic Communications.</p>
 
 <h2>Fun Facts</h2>
